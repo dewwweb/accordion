@@ -1,0 +1,32 @@
+{
+  "name": "accordion",
+  "version": "1.0.0",
+  "description": "An accordion map with preset elements.",
+  "main": "accordion.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dewwweb/accordion.git"
+  },
+  "keywords": [
+    "accordion",
+    "menu",
+    "customizeable",
+    "easye code"
+  ],
+  "author": {
+    "name": "dewwweb"
+  },
+  "license": "dewwweb",
+  "bugs": {
+    "url": "https://github.com/dewwweb/accordion/issues"
+  },
+  "homepage": "https://github.com/dewwweb/accordion",
+  "readme": "accordion\n==============\nAn accordion menu with easy and customizeable code.You need to add jquery.js an routie.js in your project.\n",
+  "readmeFilename": "README.md",
+  "_id": "routie@0.0.1",
+  "dist": {
+  },
+  "_from": "@dewwweb"
+}
