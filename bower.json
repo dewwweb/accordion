@@ -6,7 +6,7 @@
   "ignore": [],
   "devDependencies": {
     "jquery": "1.11.2",
-    "rotuiejs": "1.0.0",
+    "routiejs": "1.0.0",
   },
   "keywords": [
     "accordion",
